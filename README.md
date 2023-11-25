@@ -3,5 +3,5 @@ Used this stackoverflow link for assistance to understand the coding.
 Although there are several codes and outcomes I found it difficult to find level of coding that shows the outcomes step by step.
 
 SummaryReport for 2018
-![summary2018]("./2018 Screenshot.png")
+![summary2018](./2018Screenshot.png)
 
